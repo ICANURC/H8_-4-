@@ -1,0 +1,9 @@
+nama : Ica Nur Cahayani
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - jupyter
+  - numpy
+  - pandas
