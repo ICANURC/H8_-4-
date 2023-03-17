@@ -7,3 +7,7 @@ dependencies:
   - jupyter
   - numpy
   - pandas
+  - matplotlib
+  - openpyxl
+  - xlrd
+  
